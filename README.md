@@ -1,5 +1,4 @@
 # roarkj06
-CSC6301 Modules 4 and 5
 
  Java Sorting Programs
 This repository contains two Java programs that demonstrate sorting a collection of numbers. The first program uses a LinkedList to store and sort the numbers, while the second program uses a Stack.
